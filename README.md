@@ -1,5 +1,5 @@
 # L-T_PROJECT
-Project Title: Dam Water Level Alert System
+# Project Title: Dam Water Level Alert System
 Problem Statement:
 The management of dam water levels is critical for preventing flooding, ensuring water supply, and maintaining ecological balance. Failure to monitor and control water levels can lead to disastrous consequences, including the risk of dam overflow, potential flooding of downstream areas, and damage to ecosystems. Traditional methods of monitoring water levels often require manual checking, which can be inefficient and prone to human error. Therefore, there is a need for an automated system that can provide real-time monitoring and alert notifications to manage dam water levels effectively.
 
