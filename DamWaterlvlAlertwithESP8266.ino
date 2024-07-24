@@ -4,8 +4,8 @@ const int trigPin1 = 13;
 const int echoPin1 = 15;
 #define redled 12
 #define grnled 14
-unsigned long ch_no = 2604200;//Replace with Thingspeak Channel number
-const char * write_api = "URPTAF31GLC8S2CG";//Replace with Thingspeak write API
+unsigned long ch_no = 2604200;
+const char * write_api = "URPTAF31GLC8S2CG";
 char auth[] = "mwa0000034478770";
 char ssid[] = "Galvin’s iPhone";
 char pass[] = "GalvinBenson";
@@ -33,7 +33,7 @@ void setup()
   Serial.println("WiFi connected");
   Serial.println(WiFi.localIP());
   ThingSpeak.begin(client);
-  startMillis = millis();  //initial start time
+  startMillis = millis();  
 }
 void loop()
 {
