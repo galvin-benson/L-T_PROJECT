@@ -1,12 +1,11 @@
-# L-T_PROJECT
 # Project Title: Dam Water Level Alert System
-Problem Statement:
+# Problem Statement:
 The management of dam water levels is critical for preventing flooding, ensuring water supply, and maintaining ecological balance. Failure to monitor and control water levels can lead to disastrous consequences, including the risk of dam overflow, potential flooding of downstream areas, and damage to ecosystems. Traditional methods of monitoring water levels often require manual checking, which can be inefficient and prone to human error. Therefore, there is a need for an automated system that can provide real-time monitoring and alert notifications to manage dam water levels effectively.
 
-Scope of the Solution:
+# Scope of the Solution:
 This project aims to develop a prototype that mimics a dam water level sensing and alert system. The system will use an ultrasonic sensor to measure water levels and a microcontroller to process the data. If the water level reaches a critical threshold, the system will trigger an alert. This prototype will demonstrate the feasibility of using IoT and sensor technology for automated water level monitoring, providing a foundation for further development and implementation in real-world scenarios.
 
-Required Components:
+# Required Components:
 Software:
 IDE: Arduino IDE
 Libraries:
